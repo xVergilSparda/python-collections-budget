@@ -1,5 +1,5 @@
 import collections
-import matplotlib.pyplot as plt # Remember need to pip install matplotlib
+import matplotlib.pyplot as plt 
 from . import Expense
 
 expenses = Expense.Expenses()
